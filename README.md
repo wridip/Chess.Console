@@ -1,2 +1,2 @@
 # Chess.Console
-Simple  console base chess game 
+Simple  console based chess game 
